@@ -1,5 +1,13 @@
 package cse360assignment02;
 
+/**
+* Simple program to help us understand git and github repositories
+* 
+*
+* @author  Carson Sharp
+* @version 1.0
+* @since   2020-10-05 
+*/
 public class AddingMachine {
   private int total;
   
